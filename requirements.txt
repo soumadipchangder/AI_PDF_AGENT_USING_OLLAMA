@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+langgraph
+faiss-cpu
+rank-bm25
+sentence-transformers
+pypdf
+python-dotenv
+pydantic
